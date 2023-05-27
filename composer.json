@@ -1,0 +1,21 @@
+{
+    "name": "joydevs/health_care",
+    "description": "Health Care",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Abdur Rahim",
+            "email": "abdurrahimctg10@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Health\\Care\\": "./includes"
+        },
+        "files": [ "includes/functions.php" ]
+    }
+}

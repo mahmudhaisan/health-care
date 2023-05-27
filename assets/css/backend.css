@@ -1,0 +1,27 @@
+/* .create-test-order-from-dashboard select,
+input,
+label {
+  width: 300px;
+  font-size: 16px;
+  display: block;
+  margin-top: 10px;
+} */
+
+.create-test-order-from-dashboard button {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: rgb(25, 68, 120);
+  color: aliceblue;
+  cursor: pointer;
+}
+
+/* .create-test-order-from-dashboard button:hover {
+  background-color: rgb(30, 91, 129);
+  color: aliceblue;
+  cursor: pointer;
+} */
+
+span.select2.select2-container.select2-container--default {
+  display: block;
+  width: 300px;
+}

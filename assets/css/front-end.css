@@ -1,0 +1,10 @@
+.create-health-test-order-form select,
+input,
+button {
+  width: 100%;
+  padding: 15px;
+}
+
+.create-health-test-order-form button {
+  margin-top: 10px;
+}
