@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name:       Health Care
- * Plugin URI:        https://github.com/mahmudhaisan
+ * Plugin URI:        https://wpagain.com
  * Description:       Health Care
  * Version:           1.0.0
- * Author:            JoyDevs
+ * Author:            mahmud haisan
  * Author URI:        https://github.com/mahmudhaisan
  * License:           GPL v2 or later
  * Text Domain:       health-care
